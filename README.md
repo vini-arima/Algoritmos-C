@@ -19,6 +19,6 @@ Livros
 - Desconplicando C - André Backes
 - Biblia em C/C++ - Lars Kleimer
 - Linguagens de Programação: Princípios e Paradigmas - Alen B turker
-- Estrutura de Dados usando C
+- Estrutura de Dados usando C - Tanebaum
   
 
