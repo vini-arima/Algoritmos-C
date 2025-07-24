@@ -1,4 +1,4 @@
-# Algoritmos-C
+# Algoritmos em linguagem de Programação C
 
 Objetivos
 ------------
