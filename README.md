@@ -18,5 +18,5 @@ Livros
 ------------
 - Desconplicando C - André Backes
 - Biblia em C/C++ - Lars Kleimer
-- Linguagens de Programação: Princípios e Paradigmas
+- Linguagens de Programação: Princípios e Paradigmas - Alen B turker
 
