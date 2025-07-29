@@ -3,7 +3,7 @@
  :large_blue_diamond: Objetivos
 ------------
 Colocar as questões envoldendo lógica de programação em C.\
-Apresenta um guia de estudos para a linguagem.
+Apresenta um guia de estudos para a linguagem envolvendo questões + projeto.
 
  :large_blue_diamond: Assuntos 
 -----------
@@ -20,8 +20,8 @@ Apresenta um guia de estudos para a linguagem.
 - Biblia em C/C++ - Lars Kleimer
 - Linguagens de Programação: Princípios e Paradigmas - Alen B turker
 - Estrutura de Dados usando C - Tanebaum
+  
 
-## Questões de C + Projeto
 
   
 
