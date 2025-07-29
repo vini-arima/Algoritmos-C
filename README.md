@@ -2,8 +2,7 @@
 
  :large_blue_diamond: Objetivos
 ------------
-Colocar as questões envoldendo lógica de programação em C.\
-Apresenta um guia de estudos para a linguagem envolvendo questões + projeto.
+Colocar as questões envolvendo linguagem de programação em C.\
 
  :large_blue_diamond: Assuntos 
 -----------
