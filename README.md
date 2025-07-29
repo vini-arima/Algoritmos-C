@@ -2,7 +2,7 @@
 
  :large_blue_diamond: Objetivos
 ------------
-Colocar as questões envolvendo linguagem de programação em C.\
+Colocar as questões envolvendo linguagem de programação em C.
 
  :large_blue_diamond: Assuntos 
 -----------
