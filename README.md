@@ -1,4 +1,4 @@
-# Algoritmos em linguagem de Programação C
+# Programação Funcional em linguagem C
 
  :large_blue_diamond: Objetivos
 ------------
