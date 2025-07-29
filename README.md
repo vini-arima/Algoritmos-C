@@ -21,7 +21,7 @@ Apresenta um guia de estudos para a linguagem.
 - Linguagens de Programação: Princípios e Paradigmas - Alen B turker
 - Estrutura de Dados usando C - Tanebaum
 
-### Incluso -> Ficha com 100 questões de C
+## Questões de C + Projeto
 
   
 
