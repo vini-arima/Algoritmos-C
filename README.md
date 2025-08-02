@@ -18,7 +18,6 @@ Colocar as questões envolvendo linguagem de programação em C.
 - Desconplicando C - André Backes
 - Biblia em C/C++ - Lars Kleimer
 - Linguagens de Programação: Princípios e Paradigmas - Alen B turker
-- Estrutura de Dados usando C - Tanebaum
   
 
 
